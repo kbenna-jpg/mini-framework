@@ -1,0 +1,12 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "description": "Mini framework with DOM abstraction, routing system, state managaement and event handling logic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
