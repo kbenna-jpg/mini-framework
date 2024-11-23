@@ -93,5 +93,4 @@ function renderApp() {
   render(app, document.getElementById('root')); 
 }
 
-
 renderApp();
