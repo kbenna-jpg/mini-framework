@@ -64,7 +64,7 @@ When the button is clicked, the alert is displayed.
 
 
 ## Example Folder Architecture
-
+```
 mini-framework/
 ├── src/
 │   ├── dom.js          # DOM abstraction logic
@@ -78,7 +78,7 @@ mini-framework/
 ├── README.md           # Documentation
 ├── package.json        # Project metadata
 └── .gitignore
-
+```
 
 ## Authors
 - [Jay Lim (jlim)](https://01.kood.tech/git/jlim)
